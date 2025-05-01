@@ -27,7 +27,7 @@ There are currently no known bugs in the application. The platform functions as 
 If you have any questions, suggestions, or encounter issues while using **Globe Wonders**, feel free to reach out:  
 📞 Contact: 0873837847  
 📧 Email: [okukubrian743@gmail.com](mailto:okukubrian743@gmail.com)
-
+README file:https://okukuokothbrian.github.io/Globe-Wonders/
 ### License  
 *This project is licensed under the MIT License.*  
 Copyright (c) 2025 **Okuku Brian**
