@@ -2,7 +2,7 @@
 #### A platform where users can discover, learn about, and book trips to natural tourist attractions worldwide — waterfalls, mountains, caves, lakes, beaches, forests, national parks, and more.  
 **Version: May 1, 2025**
 
-#### By **Okuku Brian**
+#### By **Okuku Brian Okuku**
 
 ## Description  
 **Globe Wonders** is a web-based platform that showcases a wide range of natural wonders from across the globe — including waterfalls, mountains, caves, lakes, beaches, forests, and national parks. It allows users to discover lesser-known yet breathtaking natural attractions around them or in other parts of the world. The platform not only educates users about these locations but also encourages exploration and appreciation of the environment.
