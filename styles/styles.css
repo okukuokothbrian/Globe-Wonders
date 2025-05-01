@@ -1,0 +1,129 @@
+/* styles/styles.css */
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f2f2f2;
+    color: #333;
+  }
+  
+  header,
+  footer {
+    background-color: #004080;
+    color: white;
+    text-align: center;
+    padding: 20px 10px;
+  }
+  
+  nav {
+    background-color: #0073e6;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  nav a {
+    color: white;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+  }
+  
+  nav a:hover {
+    text-decoration: underline;
+  }
+  
+  main,
+  section {
+    padding: 20px;
+  }
+  
+  .wonders,
+  .features,
+  .gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 20px;
+    padding: 10px 0;
+  }
+  
+  .wonder-item,
+  .feature-item,
+  .gallery-item {
+    background-color: white;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 15px;
+    flex: 1 1 300px;
+    max-width: 300px;
+    text-align: center;
+  }
+  
+  img {
+    width: 50%;
+    height: auto;
+    border-radius: 5px;
+    margin-top: 10px;
+  }
+  
+  form {
+    max-width: 500px;
+    margin: auto;
+    background-color: white;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  }
+  
+  input,
+  button {
+    width: 100%;
+    padding: 10px;
+    margin: 5px 0 15px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  button {
+    background-color: #28a745;
+    color: white;
+    border: none;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #218838;
+  }
+  
+  #bookingsTable {
+    width: 100%;
+    margin-top: 20px;
+    border-collapse: collapse;
+    background-color: white;
+  }
+  
+  #bookingsTable th,
+  #bookingsTable td {
+    border: 1px solid #ccc;
+    padding: 10px;
+    text-align: center;
+  }
+  
+  #bookingsTable th {
+    background-color: #0073e6;
+    color: white;
+  }
+  
+  .h2 {
+    text-align: center;
+    color: #004080;
+  }
+  
+  footer p {
+    margin: 5px 0;
+  }
+  
+
+
