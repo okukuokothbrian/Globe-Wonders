@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Booking Form - Globe Wonders</title>
+    <link rel="stylesheet" href="./styles/styles.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Globe Wonders Booking Form</h1>
+        <h2>Plan Your Next Adventure!</h2>
+        <p>Fill out the form to book your unforgettable trip.</p>
+    </header>
+
+    <nav>
+        <a href="index.html">Home</a> |
+        <a href="gallery.html">Gallery</a> |
+        <a href="about.html">About</a> |
+        <a href="form.html">Form</a>
+    </nav>
+
+    <main>
+        <h2>Booking Details</h2>
+
+        <form id="bookingForm">
+            <label for="fullname">Full Name:</label><br>
+            <input type="text" id="fullname" name="fullname" required><br><br>
+
+            <label for="email">Email Address:</label><br>
+            <input type="email" id="email" name="email" required><br><br>
+
+            <label for="phone">Phone Number:</label><br>
+            <input type="tel" id="phone" name="phone" required><br><br>
+
+            <label for="destination">Preferred Destination:</label><br>
+            <input type="text" id="destination" name="destination" required><br><br>
+
+            <label for="date">Travel Date:</label><br>
+            <input type="date" id="date" name="date" required><br><br>
+
+            <button type="submit">Submit Booking</button>
+        </form>
+    </main>
+
+    <section>
+        <h2>Submitted Bookings</h2>
+        <table id="bookingsTable" border="1">
+            <thead>
+                <tr>
+                    <th>Full Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Destination</th>
+                    <th>Travel Date</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </section>
+    <section>
+
+    </section>
+    <footer>
+        <p>&copy; 2025 Globe Wonders. All rights reserved.</p>
+        <p>Contact us: 085667777576 Email:okukubrian743@gmail.com</p>
+        <p>Follow us on social media: Facebook | Twitter | Instagram: @okukubrian</p>
+    </footer>
+
+    <script src="./src/scripts.js"></script>
+
+</body>
+
+</html>
