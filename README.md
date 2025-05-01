@@ -1,5 +1,5 @@
 # Globe Wonders
-#### A platform where users can discover, learn about, and book trips to natural tourist attractions worldwide — waterfalls, mountains, caves, lakes, beaches, forests, national parks, and more.  
+#### A platform where users can discover, learn about, and book trips to natural tourist attractions worldwide — waterfalls, Mountains, caves, lakes, Beaches, forests, national parks, and more.  
 **Version: May 1, 2025**
 
 #### By **Okuku Brian Okuku**
